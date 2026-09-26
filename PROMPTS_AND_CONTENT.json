@@ -1,0 +1,240 @@
+{
+  "seo": {
+    "title": "Кофейня CoffeeTime — уют и вкусные напитки",
+    "description": "Уютная кофейня CoffeeTime приглашает насладиться ароматным кофе и свежими десертами."
+  },
+  "brand": {
+    "name": "CoffeeTime",
+    "industry": "уютная кофейня",
+    "slogan": "Здесь тепло твоего дома",
+    "colors": "коричневый, бежевый, зелёный",
+    "logo_style": "простота и комфорт"
+  },
+  "hero": {
+    "title": "Добро пожаловать в CoffeeTime",
+    "subtitle": "Место, где время замедляется",
+    "description": "Насладитесь чашечкой ароматного кофе в окружении тепла и уюта.",
+    "cta_text": "Забронировать столик"
+  },
+  "sections": [
+    {
+      "id": "about",
+      "title": "Почему выбирают CoffeeTime?",
+      "content": "Мы создаём атмосферу настоящего домашнего уюта, где каждый гость чувствует себя комфортно и расслабленно.",
+      "features": [
+        "Теплая атмосфера и дружелюбный персонал",
+        "Свежие десерты и авторские напитки",
+        "Удобное расположение и приятная обстановка"
+      ]
+    },
+    {
+      "id": "services",
+      "title": "Что мы предлагаем",
+      "items": [
+        {
+          "name": "Меню напитков",
+          "description": "Выберите из нашего разнообразного меню ароматные кофе и уникальные авторские коктейли."
+        },
+        {
+          "name": "Десертное меню",
+          "description": "Сладкоежки оценят наши свежие пирожные, торты и печенье."
+        },
+        {
+          "name": "Закуски и лёгкие блюда",
+          "description": "Идеальное дополнение к напиткам: салаты, бутерброды и канапе."
+        }
+      ]
+    },
+    {
+      "id": "process",
+      "title": "Как мы работаем",
+      "items": [
+        {
+          "step": "*1*",
+          "name": "Приготовление напитка",
+          "description": "Только свежеобжаренный кофе и отборные ингредиенты."
+        },
+        {
+          "step": "*2*",
+          "name": "Выбор десерта",
+          "description": "Ручная работа наших кондитеров."
+        },
+        {
+          "step": "*3*",
+          "name": "Приятная атмосфера",
+          "description": "Теплый свет и спокойная музыка создают идеальные условия для отдыха."
+        }
+      ]
+    },
+    {
+      "id": "team",
+      "title": "Наши бариста",
+      "content": "Каждый наш сотрудник — профессионал своего дела, готовый создать для вас незабываемый опыт.",
+      "items": [
+        {
+          "name": "Иван Иванов",
+          "description": "Опыт работы более 5 лет, настоящий мастер приготовления кофе."
+        },
+        {
+          "name": "Анна Петрова",
+          "description": "Талантливый кондитер, создает сладости, от которых невозможно отказаться."
+        }
+      ]
+    },
+    {
+      "id": "testimonials",
+      "title": "Отзыв гостей",
+      "items": [
+        {
+          "name": "",
+          "text": "Обожаю приходить сюда после рабочего дня! Здесь всегда вкусно и уютно."
+        },
+        {
+          "name": "",
+          "text": "Лучший кофе в городе, рекомендую каждому!"
+        },
+        {
+          "name": "",
+          "text": "Замечательное место для встречи с друзьями и коллегами."
+        }
+      ]
+    },
+    {
+      "id": "pricing",
+      "title": "Стоимость услуг",
+      "items": [
+        {
+          "name": "Базовый",
+          "price": "*3 000 ₽*",
+          "description": "Кофе и легкий перекус."
+        },
+        {
+          "name": "Стандарт",
+          "price": "*6 000 ₽*",
+          "price_note": "включает напиток, десерт и закуску."
+        },
+        {
+          "name": "Премиум",
+          "price": "*12 000 ₽*",
+          "description": "Полноценный обед с несколькими блюдами и эксклюзивным десертом."
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Часто задаваемые вопросы",
+      "items": [
+        {
+          "question": "Какие напитки вы предлагаете?",
+          "answer": "Наше меню включает разнообразные виды кофе, авторских коктейлей и чая."
+        },
+        {
+          "question": "Есть ли возможность забронировать столик заранее?",
+          "answer": "Да, вы можете сделать бронь прямо на нашем сайте."
+        },
+        {
+          "question": "Можно ли прийти с домашними животными?",
+          "answer": "К сожалению, домашние животные не допускаются."
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": "hero",
+      "caption": "Твой путь начинается здесь",
+      "prompt": "cozy coffee shop interior, slavic people, warm lighting, modern style, 4k"
+    },
+    {
+      "id": "about",
+      "caption": "Комфорт и качество",
+      "prompt": "coffee shop interior, russian people enjoying coffee, comfortable chairs, 4k"
+    },
+    {
+      "id": "services",
+      "caption": "Авторские напитки и десерты",
+      "prompt": "barista preparing drink, slavic woman, cozy atmosphere, 4k"
+    },
+    {
+      "id": "team",
+      "caption": "Наши профессионалы",
+      "prompt": "team of baristas, friendly smile, working together, 4k"
+    },
+    {
+      "id": "result",
+      "caption": "Ваш идеальный отдых",
+      "prompt": "satisfied customer drinking coffee, happy face, relaxing environment, 4k"
+    }
+  ],
+  "privacy_policy": "Политика конфиденциальности описывает сбор и защиту персональных данных гостей CoffeeTime.",
+  "footer": {
+    "copyright": "© 2025 CoffeeTime",
+    "contacts": {
+      "email": "info@coffeetime.ru",
+      "phone": "+7 (999) 123-45-67"
+    }
+  },
+  "achievements": [
+    {
+      "number": "*5 лет*",
+      "label": "Опыт"
+    },
+    {
+      "number": "*1200*",
+      "label": "Клиентов"
+    }
+  ],
+  "partners": [
+    {
+      "name": "Партнёр 1"
+    },
+    {
+      "name": "Партнёр 2"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Сертификат",
+      "description": "Описание"
+    }
+  ],
+  "contacts": {
+    "address": "г. Москва",
+    "map_query": "Москва",
+    "working_hours": "9:00-21:00"
+  },
+  "calendly_link": "https://calendly.com/",
+  "downloaded_images": {
+    "hero": [
+      {
+        "path": "images/hero.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "about": [
+      {
+        "path": "images/about.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "services": [
+      {
+        "path": "images/services_placeholder.svg",
+        "photographer": "Placeholder"
+      }
+    ],
+    "team": [
+      {
+        "path": "images/team.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "result": [
+      {
+        "path": "images/result.png",
+        "photographer": "Kandinsky AI"
+      }
+    ]
+  },
+  "logo": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\">\n            <circle cx=\"100\" cy=\"100\" r=\"90\" fill=\"#e63946\" />\n            <text x=\"100\" y=\"120\" font-family=\"Arial\" font-size=\"80\" fill=\"white\" \n                  text-anchor=\"middle\" font-weight=\"bold\">C</text>\n        </svg>"
+}
