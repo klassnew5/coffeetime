@@ -1,0 +1,230 @@
+{
+  "seo": {
+    "title": "Кофейня ВремяКофе — уют и вкусные напитки",
+    "description": "Уютная кофейня ВремяКофе приглашает насладиться ароматным кофе и свежими десертами."
+  },
+  "brand": {
+    "name": "ВремяКофе",
+    "industry": "уютная кофейня",
+    "slogan": "Здесь тепло твоего дома",
+    "colors": "коричневый, бежевый, зелёный",
+    "logo_style": "простота и комфорт"
+  },
+  "hero": {
+    "title": "ВремяКофе",
+    "subtitle": "Место, где время замедляется",
+    "description": "Насладитесь чашечкой ароматного кофе в окружении тепла и уюта.",
+    "cta_text": "Забронировать столик"
+  },
+  "sections": [
+    {
+      "id": "about",
+      "title": "Почему выбирают ВремяКофе?",
+      "content": "Мы создаём атмосферу настоящего домашнего уюта, где каждый гость чувствует себя комфортно и расслабленно.",
+      "features": [
+        "Теплая атмосфера и дружелюбный персонал",
+        "Свежие десерты и авторские напитки",
+        "Удобное расположение и приятная обстановка"
+      ]
+    },
+    {
+      "id": "services",
+      "title": "Что мы предлагаем",
+      "items": [
+        {
+          "name": "Меню напитков",
+          "description": "Выберите из нашего разнообразного меню ароматные кофе и уникальные авторские коктейли."
+        },
+        {
+          "name": "Десертное меню",
+          "description": "Сладкоежки оценят наши свежие пирожные, торты и печенье."
+        },
+        {
+          "name": "Закуски и лёгкие блюда",
+          "description": "Идеальное дополнение к напиткам: салаты, бутерброды и канапе."
+        }
+      ]
+    },
+    {
+      "id": "process",
+      "title": "Как мы работаем",
+      "items": [
+        {
+          "step": "*1*",
+          "name": "Приготовление напитка",
+          "description": "Только свежеобжаренный кофе и отборные ингредиенты."
+        },
+        {
+          "step": "*2*",
+          "name": "Выбор десерта",
+          "description": "Ручная работа наших кондитеров."
+        },
+        {
+          "step": "*3*",
+          "name": "Приятная атмосфера",
+          "description": "Теплый свет и спокойная музыка создают идеальные условия для отдыха."
+        }
+      ]
+    },
+    {
+      "id": "team",
+      "title": "Наши бариста",
+      "content": "Каждый наш сотрудник — профессионал своего дела, готовый создать для вас незабываемый опыт.",
+      "items": [
+        {
+          "name": "Максим Орлов",
+          "description": "Главный бариста, чемпион России"
+        },
+        {
+          "name": "Дарья Романова",
+          "description": "Мастер обжарки"
+        }
+      ]
+    },
+    {
+      "id": "testimonials",
+      "title": "Отзыв гостей",
+      "items": [
+        {
+          "name": "",
+          "text": "Обожаю приходить сюда после рабочего дня! Здесь всегда вкусно и уютно."
+        },
+        {
+          "name": "",
+          "text": "Лучший кофе в городе, рекомендую каждому!"
+        },
+        {
+          "name": "",
+          "text": "Замечательное место для встречи с друзьями и коллегами."
+        }
+      ]
+    },
+    {
+      "id": "pricing",
+      "title": "Наше меню",
+      "items": [
+        {
+          "name": "Кофе",
+          "price": "*250 ₽*",
+          "description": "Капучино, латте, раф, американо"
+        },
+        {
+          "name": "Кофе + десерт",
+          "price": "*550 ₽*",
+          "description": "Напиток + домашний десерт"
+        },
+        {
+          "name": "Завтрак",
+          "price": "*650 ₽*",
+          "description": "Круассан, омлет, тост + кофе"
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Часто задаваемые вопросы",
+      "items": [
+        {
+          "question": "Какие напитки вы предлагаете?",
+          "answer": "Наше меню включает разнообразные виды кофе, авторских коктейлей и чая."
+        },
+        {
+          "question": "Есть ли возможность забронировать столик заранее?",
+          "answer": "Да, вы можете сделать бронь прямо на нашем сайте."
+        },
+        {
+          "question": "Можно ли прийти с домашними животными?",
+          "answer": "К сожалению, домашние животные не допускаются."
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": "hero",
+      "caption": "Свежая обжарка каждый день",
+      "prompt": "cup of coffee with latte art on wooden table, fresh croissant and coffee beans on white plate, warm window light, blurred cafe background, no people, no hands, sharp focus, ultra high quality, 8k, professional food photography"
+    },
+    {
+      "id": "about",
+      "caption": "Комфорт и качество",
+      "prompt": "cozy coffee shop interior with wooden tables, soft lighting, plants in pots, warm atmosphere, empty room, no people, no hands, sharp focus, ultra high quality, 8k, professional photo"
+    },
+    {
+      "id": "services",
+      "caption": "Авторские напитки и десерты",
+      "prompt": "coffee cup with latte art on wooden table, fresh croissant on white plate, coffee beans scattered, warm light, no people, no hands, sharp focus, ultra high quality, 8k, professional food photo"
+    },
+    {
+      "id": "process",
+      "caption": "Наши бариста",
+      "prompt": "barista pouring milk into coffee cup behind bar counter, warm cozy interior, medium shot, slavic person, sharp focus, 8k"
+    },
+    {
+      "id": "team",
+      "caption": "Наши бариста",
+      "prompt": "team of three baristas in uniform standing behind counter, smiling, cozy coffee shop, slavic people, arms relaxed, sharp focus, 8k"
+    }
+  ],
+  "privacy_policy": "Политика конфиденциальности описывает сбор и защиту персональных данных гостей ВремяКофе.",
+  "footer": {
+    "copyright": "© 2026 ВремяКофе",
+    "contacts": {
+      "email": "ai.saitodel@yandex.ru",
+      "phone": "+7 (999) 123-45-67"
+    }
+  },
+  "achievements": [
+    {
+      "number": "*3*",
+      "label": "года"
+    },
+    {
+      "number": "*52*",
+      "label": "сорта кофе"
+    },
+    {
+      "number": "*980*",
+      "label": "гостей в день"
+    }
+  ],
+  "contacts": {
+    "address": "г. Москва, ул. Тверская, д. 15",
+    "map_query": "Москва, Тверская 15",
+    "working_hours": "Пн–Вс: 8:00–22:00"
+  },
+  "calendly_link": "https://calendly.com/",
+  "downloaded_images": {
+    "hero": [
+      {
+        "path": "images/hero.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "about": [
+      {
+        "path": "images/about.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "services": [
+      {
+        "path": "images/services.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "process": [
+      {
+        "path": "images/team.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "team": [
+      {
+        "path": "images/result.png",
+        "photographer": "Kandinsky AI"
+      }
+    ]
+  },
+  "logo": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\">\n            <circle cx=\"100\" cy=\"100\" r=\"90\" fill=\"#e63946\" />\n            <text x=\"100\" y=\"120\" font-family=\"Arial\" font-size=\"80\" fill=\"white\" \n                  text-anchor=\"middle\" font-weight=\"bold\">C</text>\n        </svg>"
+}
