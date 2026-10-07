@@ -11,7 +11,7 @@
     "logo_style": "простота и комфорт"
   },
   "hero": {
-    "title": "CoffeeTime",
+    "title": "ВремяКофе",
     "subtitle": "Место, где время замедляется",
     "description": "Насладитесь чашечкой ароматного кофе в окружении тепла и уюта.",
     "cta_text": "Забронировать столик"
@@ -170,7 +170,7 @@
   "footer": {
     "copyright": "© 2026 ВремяКофе",
     "contacts": {
-      "email": "ai.saitodel@yandex.ru",
+      "email": "info@vremyacoffee.ru",
       "phone": "+7 (999) 123-45-67"
     }
   },
